@@ -1,8 +1,7 @@
 {
-  "name": "awv3-icons",
-  "version": "1.0.1",
+  "name": "@awv/awv3-icons",
+  "version": "1.0.0",
   "description": "CAD specific application icons.",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +14,9 @@
   "bugs": {
     "url": "https://github.com/awv-informatik/awv3-icons/issues"
   },
-  "homepage": "https://github.com/awv-informatik/awv3-icons#readme"
+  "homepage": "https://github.com/awv-informatik/awv3-icons#readme",
+  "keywords": [
+    "icons",
+    "awv"
+  ]
 }
