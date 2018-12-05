@@ -1,6 +1,6 @@
 {
   "name": "awv3-icons",
-  "version": "7.2.1",
+  "version": "7.2.2",
   "description": "CAD specific application icons.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
