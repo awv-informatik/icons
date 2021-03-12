@@ -1,9 +1,9 @@
-<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect width="100" height="100" fill="url(#pattern0)"/>
-<defs>
-<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
-<use xlink:href="#image0" transform="scale(0.01)"/>
-</pattern>
-<image id="image0" width="100" height="100" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAM0SURBVHgB7dzNThNRGMbx90xl4pILMHFqpLTERLwDXLsxmriQBaWGxB3cAdQLMLJyo51KlIUbV67BCzC4MBYKsU10DwuCldJ5PadpVAih8wnvDM8vIf1IFxz+nPnsDBEAAAAAAMD5Un4/WKhtMSWoWRn3/btkmUUgCoIIgyDCIIgwVyiC1XvXKIzHH38SnA4zRBgEEQZBhEEQYRBEGAQRBkGEQRBhEEQYBBEGQYRBEGEQRJhIR3tx1DZ+mCHCIIgwCCIMggAAAAAAhFNwtxcdd2OUILDY90Mm3OYksbdke1cXCAKLPcgR84f+E2XNOy8bDkEgsQYZe90o6wdn8HJ0xM4tEgQS21VLRbfheGyt0b8gfV7Pu7szV1on8CW2GdKj3DydiGGoHGZJELHMkMHsaJ3xkXKzMv6GYKhYZoiOsTTkIy+wGexP5CCDFfnMkI+NYjPYn0jn1A2laIqJ1/++JuXQYF1y/H3rNsFQsV8bXqg16nrimRnT1uuNPEEgOGMoDIIIgyDCIIgwCCIMggiDIMIgiDAIIgyCCIMgwiCIMEkE4f9+AAAAAC4n36dwi24r0VuBb87mL3yrLNkxdvQYS0PH6PtLDh4fepSsC733u4mR7BgtE2PobgZ2DIVBEGEQRJhIX5QLu9BP0zGV8x5jpCDvMn7vdxMjzBhNjOmQY8zkIquwuqUm3n+lNMrmOqRD7tH+yIwJM7WWroPOmQzCpK7rhzr/UrX21mZ+4tWP1ITJ9FaWUly2bet7N3fwvB8mBYuxyJcjJMkscigE7hx/rZgWdJj7R/vW0s232yu2/Zu/PbpFEokOYhY5FIKeGc4pb5v36taht9jt2g8n3dbGl1l5V0uIDmIWORS/vGL+fMCdqn5eJWFEB9FzpEWhqLP+9XeJveXDXGeZBBIdpFkp3qAQxmrNNUU8deJt1urdLj9rPy21SSjhMyQWbK515B5Xd+ZKn0i4LAcxOx57+mdhu1JcoZTIZBC90t7Vp9SqZj3RLt/ZoxSJFETqvm/zyfgDikmoMUb4w0QKMp3xe79HOWobFk5QCYMgwiCIMEHWIRn/Nrs5ImklOUZcDQAAAAAAACL9AVQY38bfqnIwAAAAAElFTkSuQmCC"/>
-</defs>
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M51.0063 73.336C53.4802 75.0704 56.9902 77.2291 56.9902 77.2291L50.998 81.1099L51.0022 77.223L51.0063 73.336Z" fill="black"/>
+<path d="M37.0301 77.2088L51.0022 77.223M51.0022 77.223L51.0063 73.336C53.4802 75.0704 56.9902 77.2291 56.9902 77.2291L50.998 81.1099L51.0022 77.223Z" stroke="black" stroke-width="5"/>
+<path d="M18.1688 46.008C19.9005 43.5323 22.0554 40.02 22.0554 40.02L25.9427 46.008H22.0557H18.1688Z" fill="black"/>
+<path d="M22.0565 59.98L22.0557 46.008M22.0557 46.008H18.1688C19.9005 43.5323 22.0554 40.02 22.0554 40.02L25.9427 46.008H22.0557Z" stroke="black" stroke-width="5"/>
+<path d="M13.074 69.4348V86.926H31.038V69.4348H13.074Z" fill="#C4C4C4" stroke="black" stroke-width="5"/>
+<path d="M68.962 69.4348V86.926H86.9261V69.4348H68.962Z" fill="#C4C4C4" stroke="black" stroke-width="5"/>
+<path d="M13.074 13.074V30.5653H31.038V13.074H13.074Z" fill="#C4C4C4" stroke="black" stroke-width="5"/>
 </svg>
