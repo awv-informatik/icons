@@ -2,6 +2,5 @@
 *.tgz
 .DS_Store
 .gitignore
-SVG
 /.idea/
 /.vscode/
