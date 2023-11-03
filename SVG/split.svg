@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="100" height="100" version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+ <g stroke="#000" stroke-dashoffset="64.252" stroke-width="5">
+  <g fill="none">
+   <path d="m30.721 89.746a60 60 0 0 1 60-60" style="paint-order:normal"/>
+   <path d="m20 20 60 60" style="paint-order:normal"/>
+   <path d="m28 48h40" style="paint-order:normal"/>
+   <path d="m48 28v40" style="paint-order:normal"/>
+  </g>
+  <circle cx="48" cy="48" r="8" fill="#c4c4c4" style="paint-order:normal"/>
+ </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="100" height="100" version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path d="m10 50h40" fill="#202020" stroke="#282828" stroke-dasharray="5, 5" stroke-dashoffset="10" stroke-width="5"/>
+  <g transform="rotate(45 -33.625 89.376)" stroke="#000" stroke-dashoffset="64.252" stroke-linecap="round" stroke-linejoin="round" stroke-width="6">
+   <path d="m-25 0h60" fill="#c4c4c4"/>
+   <circle cx="-33" r="8" fill="none"/>
+  </g>
+  <path d="m58 50h32" fill="#202020" stroke="#282828" stroke-dasharray="5, 5, 60" stroke-width="5"/>
+  <g transform="rotate(-45 86.975 -39.422)" stroke="#000" stroke-dashoffset="64.252" stroke-linecap="round" stroke-linejoin="round" stroke-width="6">
+   <path d="m-25 0h60" fill="#c4c4c4"/>
+   <circle cx="-33" r="8" fill="none"/>
+  </g>
+ </g>
+</svg>
