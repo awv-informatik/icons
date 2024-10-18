@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100" height="100" version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+ <path d="m25 68v-48" fill="#2828d7" stroke="#2828d7" stroke-width="6"/>
+ <path d="m25 11 10 16h-20z" fill="#2828d7" stroke="#2828d7" stroke-width="4"/>
+ <path d="m60.135 62.15h20.337v3.833h-25.879v-3.5156l19.482-28.174h-19.165v-3.8574h24.78v3.4424z" stroke="#000" stroke-width="4" aria-label="Z"/>
+ <path d="m9 80h32" fill="#ff8000" stroke="#ff8000" stroke-width="8"/>
+</svg>
