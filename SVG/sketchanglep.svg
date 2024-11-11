@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100" height="100" version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+ <g stroke="#000">
+  <rect transform="rotate(-20)" x="30.798" y="78.969" width="28" height="28" fill="#9c9c9c" stroke-dashoffset="12" stroke-width="5" style="paint-order:markers fill stroke"/>
+  <rect transform="rotate(-60)" x="-21.603" y="35" width="28" height="28" fill="#9c9c9c" stroke-dashoffset="12" stroke-width="5" style="paint-order:markers fill stroke"/>
+  <path d="m15.391 57.714a45 45 0 0 1 28.925 34.472" fill="none" stroke-linecap="square" stroke-width="5" style="paint-order:markers fill stroke"/>
+  <path d="m6.5584 56.205 18.043-5.5182-5.1764 19.319z" stroke-linecap="square" stroke-width="4" style="paint-order:markers fill stroke"/>
+ </g>
+</svg>

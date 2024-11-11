@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100" height="100" version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+ <path d="m70 34 20 8v27l-15 6-20-8v-27z" fill="#9c9c9c" style="paint-order:markers fill stroke"/>
+ <path d="m90 69v-27l-20-8" fill="none" stroke="#000" stroke-dashoffset="14.4" stroke-linecap="round" stroke-width="4" style="paint-order:markers fill stroke"/>
+ <path d="m10 58v27l20 8 15-6v-27l-20-8z" fill="#9c9c9c" style="paint-order:markers fill stroke"/>
+ <path d="m10 58v27l20 8v-27z" fill="none" stroke="#000" stroke-dashoffset="14.4" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" style="paint-order:markers fill stroke"/>
+ <path d="m45 87v-27l-20-8 30-12 20 8v27z" fill="#b4b4b4" fill-opacity=".7" style="paint-order:markers fill stroke"/>
+ <path d="m10 58 60-24" fill="none" stroke="#000" stroke-dasharray="7.5999999,4" stroke-width="4" style="paint-order:markers fill stroke"/>
+ <path d="m30 66 60-24" fill="none" stroke="#000" stroke-dasharray="7.5999999,4" stroke-dashoffset="1.6" stroke-width="4" style="paint-order:markers fill stroke"/>
+ <path d="m30 93 60-24" fill="none" stroke="#000" stroke-dasharray="7.5999999,4" stroke-width="4" style="paint-order:markers fill stroke"/>
+ <path d="m10 35 50-20" fill="none" stroke="#28a628" stroke-width="5" style="paint-order:markers fill stroke"/>
+ <path d="m65.709 12.718-14.113-2.9715 5.9419 14.856z" fill="#28a628" stroke="#28a628" stroke-width="4" style="paint-order:markers fill stroke"/>
+</svg>

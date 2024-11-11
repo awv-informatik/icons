@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100" height="100" version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+ <g stroke="#000">
+  <path d="m13 90 12-24h35l-12 24z" fill="#9c9c9c" stroke-linecap="square" stroke-width="5" style="paint-order:markers fill stroke"/>
+  <path d="m13 40 12-24h35l-12 24z" fill="#9c9c9c" stroke-linecap="square" stroke-width="5" style="paint-order:markers fill stroke"/>
+  <path d="m80 85v-45" fill="none" stroke-dashoffset="14.396" stroke-width="6" style="paint-order:markers fill stroke"/>
+  <path d="m80 22 12 18h-24z" stroke-dashoffset="14.396" stroke-linecap="round" stroke-width="4" style="paint-order:markers fill stroke"/>
+ </g>
+</svg>
