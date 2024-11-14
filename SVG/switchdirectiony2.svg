@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100" height="100" version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+ <g stroke-dashoffset="15.6" stroke-linecap="square">
+  <path d="m89.641 40-56.292 32.5" fill="none" stroke="#28a628" stroke-width="8" style="paint-order:markers fill stroke"/>
+  <path d="m20.359 80 9.5885-19.392 12 20.785z" fill="#28a628" stroke="#28a628" stroke-width="8" style="paint-order:markers fill stroke"/>
+  <path d="m15.359 45 38.971-22.5" fill="none" stroke="#94d394" stroke-width="6" style="paint-order:markers fill stroke"/>
+  <path d="m62.99 17.5-8.8564 16.66-10-17.321z" fill="#94d394" stroke="#94d394" stroke-width="6" style="paint-order:markers fill stroke"/>
+ </g>
+</svg>

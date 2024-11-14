@@ -1,7 +1,6 @@
-<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M9 95H91" stroke="black" stroke-width="5" stroke-miterlimit="10"/>
-<path d="M50 21V84" stroke="black" stroke-width="5" stroke-miterlimit="10"/>
-<path d="M33 69L50.2615 84L67 69.5357" stroke="black" stroke-width="5" stroke-miterlimit="10"/>
-<line x1="89.5" y1="97" x2="89.5" y2="85" stroke="black" stroke-width="3"/>
-<line x1="10.5" y1="84" x2="10.5" y2="97" stroke="black" stroke-width="3"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100" height="100" version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+ <path d="m10 75v15h80v-15" fill="none" stroke="#000" stroke-dashoffset="12" stroke-linecap="square" stroke-width="8" style="paint-order:markers fill stroke"/>
+ <path d="m42 10h16v45h-16z" style="paint-order:markers fill stroke"/>
+ <path d="m30 50 20 25 20-25z" stroke="#000" stroke-dashoffset="12" stroke-linecap="square" stroke-width="4" style="paint-order:markers fill stroke"/>
 </svg>

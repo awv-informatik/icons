@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100" height="100" version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+ <path d="m84.468 56.078a35 35 0 0 1-36.503 28.863 35 35 0 0 1-32.906-32.906 35 35 0 0 1 28.863-36.503" fill="#9c9c9c" stroke="#6c6c6c" stroke-dashoffset="2" stroke-linejoin="round" stroke-width="5" style="paint-order:markers fill stroke"/>
+ <path d="m62.803 52.257a13 13 0 0 1-13.558 10.721 13 13 0 0 1-12.222-12.222 13 13 0 0 1 10.721-13.558" fill="#fff" stroke="#6c6c6c" stroke-dashoffset="2" stroke-linecap="round" stroke-linejoin="round" stroke-width="5" style="paint-order:markers fill stroke"/>
+ <path d="m44.855 36.404 11.701-12.026 22.753 18.202-14.627 11.376z" fill="#fff" style="paint-order:markers fill stroke"/>
+ <ellipse transform="rotate(-15)" cx="38.149" cy="37.473" rx="7" ry="11" fill="#9c9c9c" stroke="#6c6c6c" stroke-dashoffset="2" stroke-linecap="round" stroke-width="5" style="paint-order:markers fill stroke"/>
+ <ellipse transform="rotate(15)" cx="85.164" cy="32.28" rx="11" ry="7" fill="#9c9c9c" stroke="#6c6c6c" stroke-dashoffset="2" stroke-linecap="round" stroke-width="5" style="paint-order:markers fill stroke"/>
+ <path d="m15 85 60-60" fill="none" stroke="#000" stroke-dashoffset="15.6" stroke-linecap="square" stroke-width="6" style="paint-order:markers fill stroke"/>
+ <path d="m85.355 14.645-4.2426 21.213-16.971-16.971z" stroke="#000" stroke-dashoffset="15.6" stroke-linecap="square" stroke-width="6" style="paint-order:markers fill stroke"/>
+</svg>
