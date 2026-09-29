@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100" height="100" version="1.1" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+ <g stroke-linecap="square">
+  <path d="m24.38 76.71-13.808-29.364 26.661-19.766 38.612 1.379 13.33 26.661" fill="none" stroke="#808080" stroke-width="5" style="paint-order:markers fill stroke"/>
+  <path transform="translate(3.2504 3.2504)" d="m21.127 73.458c-1.4878-6.7077-2.8876-13.019 0.31617-20.245 3.2038-7.2256 10.382-11.49 16.14-13.215 5.7581-1.7248 17.085-2.9168 27.085-0.21928 10.001 2.6975 15.452 7.5198 21.141 12.551" fill="none" stroke="#000" stroke-width="6" style="paint-order:markers fill stroke"/>
+  <rect x="69.976" y="23.175" width="12" height="12" fill="#fff" stroke="#000" stroke-width="5.0003" style="paint-order:markers fill stroke"/>
+  <rect x="5.2" y="41.376" width="12" height="12" fill="#fff" stroke="#000" stroke-width="5.0003" style="paint-order:markers fill stroke"/>
+  <rect x="31.149" y="21.93" width="12" height="12" fill="#fff" stroke="#000" stroke-width="5.0003" style="paint-order:markers fill stroke"/>
+  <circle cx="24.38" cy="76.71" r="7" fill="#c4c4c4" stroke="#000" stroke-width="5" style="paint-order:markers fill stroke"/>
+  <circle cx="89.06" cy="55.58" r="7" fill="#c4c4c4" stroke="#000" stroke-width="5" style="paint-order:markers fill stroke"/>
+ </g>
+</svg>
